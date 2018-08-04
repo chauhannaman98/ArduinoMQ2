@@ -1,3 +1,13 @@
+/*
+ * https://github.com/chauhannaman98
+ *
+ * Source_Code.ino
+ *
+ * August 04, 2018 © GPL3+
+ * Author : Naman Chauhan
+    
+********************************************************************************/
+
 int smokeA0 = A0;
 // Your threshold value
 int sensorThres = 100;
